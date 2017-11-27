@@ -25,7 +25,7 @@ This document specifies a design for the conceptual features and mechanics (game
 
 ### Scope
 
-This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”.
+This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
 
 ## Specification
