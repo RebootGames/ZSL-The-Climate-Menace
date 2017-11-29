@@ -187,6 +187,6 @@ This week’s sprints first started with our group meeting and discussing what w
 | Figure out how to get the app up on the  Ipad |   Joe and Luke shead   |   5 Days    |      Yes       |
 | Test all aspects of the app| All Members  |   5 Days | Yes |                        
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
-|Combine all sections of the app, when all sections are done | 2 hours | Yes|
+|Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
 
