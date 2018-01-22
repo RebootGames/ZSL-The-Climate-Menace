@@ -3,7 +3,7 @@
 ## Design History
 Version 1.0
 
-Produced by Matthew Sides, Sam,Luke,Luke and Joe
+Produced by Matthew Sides, Sam Dearing, LukeBruni, Luke Shead and Joe William
 
 01/11/2017
 
@@ -27,8 +27,19 @@ This document specifies a design for the conceptual features and mechanics (game
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
+### The Planning
 
-## Specification
+In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
+
+Before meetings there where some issues with the powerpoint presentation as it had been created in google docs then transferred over to Microsoft PowerPoint, however those problems where managed to be fixed before the pitch had started. As well as this the group made handouts for the clients to make sure that any information that was missed or not communicated properly would still be showed to the client. With these handouts we where able to resolve an issue with the app before it was too late to have any big inpact on the design process.
+
+After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
+
+
+
+### Feedback
+
+On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. The feedback that we got that our app was not informative enough and interactive sides of it were lacking allowed us to look back at our app and make changes to the app to fit the clients needs. This included changing the interactive side of it completely as well as adding in more parts to make it more informational.
 
 ### Concept
 
@@ -47,8 +58,7 @@ This game will be set in the present/modern day.
 The Menu will consist of four images, each representating a different area or enviroment. 
 In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
 
-<img src="BackgroundWithDividers.png" alt="GameMenu"
-     title="GameMenu" />
+![Game Menu](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Mockup%20App%20Menu.png)
 
 
 Furthermore the graphic styles within the enviroments and menu will be consistent throughout, though what is represented within each area and the colour palette will change so that differentiation may be made for the 4 different areas (Tundra, Rain Forest, British countryside and the Ocean).
@@ -104,9 +114,6 @@ Ingame Font:
 Jupiter (Menu,Game Screen)
 .... (Comic Font)
 
-### In Game Text
-....
-
 ### ZSL Project Backlog
 Group Details
 
@@ -121,7 +128,11 @@ Project Specification
 
 ZSL has given us the task of creating a web based application for children aged 11-16 which will be used in their climate change sessions. The purpose of the app is to teach students how greenhouse gases are produced and the effects they have of habitats and show them what they/society can do to reduce the levels of greenhouse gases. The app will need to include 4 habitats with their own greenhouse chain that will be displayed to the user: Artic (Plastic Bottles), British Wildlife(Beef), Ocean (Leaving electronics on standby/oil rigging), rainforest (Mobile phones). At the end of the app students will need to create ‘pledges’ of how they will reduce their greenhouse footprint.
 
-Schedule
+![First Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20chart%20A.JPG)
+
+![Second Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart%20B.JPG)
+
+### Schedule
 
 -Monday 2nd-Sunday 8th: Create Idea for project
 
@@ -144,7 +155,7 @@ Tasks for 9th-15th
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
 
-#### Monday 16th sprint 1
+#### Monday 17th sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -187,6 +198,6 @@ This week’s sprints first started with our group meeting and discussing what w
 | Figure out how to get the app up on the  Ipad |   Joe and Luke shead   |   5 Days    |      Yes       |
 | Test all aspects of the app| All Members  |   5 Days | Yes |                        
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
-|Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
+|Combine all sections of the app, when all sections are done | 2 hours | Yes|
 
 
