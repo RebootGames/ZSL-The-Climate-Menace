@@ -85,6 +85,10 @@ The application itself though not built with multiplayer, may be used by multipl
 
 	Memory Game
 
+### Cost
+
+The development will be carried out on PC so no license will be required whatsoever. Unity Pro, the game engine that the app will be developed on, costs £125 a month and over a 2 month period, bringing the cost to £250.
+
 ### Intended Audience
 
 The intended audience of the game is for casual or non-gamers of all genders spanning from the age of 11 to 16, however the primary age range is 11 to 12 years old.
